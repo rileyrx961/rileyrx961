@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Riley (@rileyrx961)
 
-<!--
-**rileyrx961/rileyrx961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps and practical developer tools at Creative Lab in SF. Big fan of simple stacks, boring tech that works, and keeping client bundles small.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Lightweight internal dashboards and CLI utilities
+- Local-first web experiments using SQLite and Express
+- Polishing component patterns in React + TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** TypeScript, JavaScript, SQL, HTML/CSS
+- **Backend:** Node.js, Express, SQLite, REST APIs
+- **Frontend:** React, Tailwind CSS
+- **Everyday:** Git, Vite, Docker, Linux
+
+#### Contact
+- Email: riley.rx961@gmail.com
+- Drop an issue on any repo if you spot a bug or want to collaborate.
